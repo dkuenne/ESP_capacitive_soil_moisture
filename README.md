@@ -60,6 +60,18 @@ It provides functions for getting calibration values and displays the informatio
 
 
 
+## Arduino libraries
+
+The following library is needed to be able to use this code:
+
+| Library | URL                                   |
+| ------- | ------------------------------------- |
+| LCD_I2C | https://gitlab.com/tandembyte/LCD_I2C |
+
+
+
+
+
 ## License
 
 The ESP capacitive soil moisture sensor project by Dominik Künne is licensed under CC BY-NC 4.0. To view a copy of this license, visit  https://creativecommons.org/licenses/by-nc/4.0
